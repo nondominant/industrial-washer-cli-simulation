@@ -1,0 +1,1 @@
+# industrial-washer-cli-simulation
